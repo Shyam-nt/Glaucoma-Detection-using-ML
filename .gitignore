@@ -1,0 +1,4 @@
+env/
+__pycache__/
+cnn_acrima.h5/
+img.jpg/
