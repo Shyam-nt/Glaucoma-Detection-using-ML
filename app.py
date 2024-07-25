@@ -1,6 +1,7 @@
 import streamlit as st
 #import cnn as prd
 import logistic as lg
+import retina_classifier
 import direct_data as dd
 import cv2 as cv
 import numpy as np
